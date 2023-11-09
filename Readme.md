@@ -19,7 +19,6 @@ PROCESS
 
 According to the current BPMN-diagram, a custumer wants a structural element in a project and contacts an architect for a model. The architect create a model for the project and stores it as an IFC-file and hands it over to the engineer. The engineer selects data for the desired structural elements, and adds price properties, and extract these datas. Based on this, the engineer calculates dimensions and costs of the structural elements and hands it over to the custumer. There is communication between the costumer and the engineer, where they agree on the solution, with and iterative process if the costumer wants changes. The custumer hands over the received informations to the contruction worker which finished the process.  
 
-![Alt text](BPMN_current)
 <img src="BPMN_current.svg ">
 
 Tool/workflow:
