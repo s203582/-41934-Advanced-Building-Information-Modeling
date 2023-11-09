@@ -48,12 +48,8 @@ WHAT POTENTIAL IMPROVEMENTS OFFER
 Describe the business value:
 Better cooperation between different parts (engineer, architect and intrapreneur), as all material and calculations are included in a single file (IFC). Which entails less wasted time, and more efficient workflow. 
 
-Additional BPMN file:
-<img src="BPMN_additions.svg ">
-
 Describe the societal value:
 Due to the optimized dimensions for structural elements, there will be less material waste, which entails less CO2 emissions.
 
-
-
-
+Additional BPMN file:
+<img src="BPMN_additions.svg ">
