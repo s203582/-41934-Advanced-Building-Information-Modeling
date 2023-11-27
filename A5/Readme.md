@@ -39,4 +39,4 @@ Properbly not, since we have learned that OpenBIM isn't for us.
 Maybe, depending on our future career and the path we choose.
 
 ## Wrap up:
-We have learned how GitHub works
+We have learned how GitHub works. We didn't know anything about OpenBIM at the start of the course, which meant that we could only get better. It was very complicated to use the different tools at the start of the course, but it ended up getting easier. The assignments have helped us get better at OpenBIM, which our assingments refelcts, as they got more advanced throughout the course, and we were able to execute our ambitions to Blender through learning Python. 
